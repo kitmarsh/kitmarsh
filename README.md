@@ -1,5 +1,5 @@
 - Hello World, I’m @kitmarsh!
-- Major: Data Science
+- Major: Data Science and Computer Science
 - Minor: Game Design
 - I’m currently practicing R and Python
 - e-mail: caitlinskmarsh@gmail.com
